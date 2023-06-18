@@ -1,6 +1,6 @@
 function Home() {
     return <>
-        <h1>Ju, complete as lacunas</h1>
+        <h1>Ju, complete as lacunas 🗼</h1>
         <p>__ Universo __ __________</p>
         <p>_ ____ __ ______ __ sincronia</p>
         <p>Verdades _______ _______</p>
